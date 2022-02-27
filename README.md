@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @DarkenLight
-- 👀 I’m interested in DIY Projects, Green Energy
+- 👋 Hi, I’m Shirsendu Das
+- 👀 I’m interested in DIY Projects, Green Energy home automation
 - 🌱 I’m currently learning Embadded Programming, IOT
-- 💞️ I’m looking to collaborate on green energy
+- 💞️ I’m looking to collaborate on green energy and automation
 - 📫 How to reach me ...
 
 <!---
