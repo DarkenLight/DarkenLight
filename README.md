@@ -1,14 +1,16 @@
+## About Me
 - 👋 Hi, I’m Shirsendu Das
 - 👀 Interested in DIY Projects, Green Energy home automation
 - 🌱 Currently learning Embadded Programming, IOT
 - 💞️ Looking to collaborate on green energy and automation
 - 📫 How to reach me ...
 
-
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=DarkenLight&show_icons=true&theme=tokyonight#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=DarkenLight&show_icons=true&theme=transparent#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
-My name is Shirsendu, and I am an electrical engineer by profession. I have ample experience in PCB design and embedded coding, and I am skilled in visual design, Excel, and project management.
+
+
+I am an electrical engineer by profession. I have ample experience in PCB design and embedded coding, and I am skilled in visual design, Excel, and project management.
 
 I have a diverse range of interests and expertise, which has allowed me to work on a variety of different projects throughout my career. One of my proudest accomplishments was running my own solar installation startup, where I oversaw all aspects of the business from design and installation to project management and customer service.
 
