@@ -5,6 +5,8 @@
 - 💞️ Looking to collaborate on green energy and automation
 - 📫 How to reach me ...
 
+![](https://komarev.com/ghpvc/?username=DarkenLight)
+
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=DarkenLight&show_icons=true&theme=tokyonight#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=DarkenLight&show_icons=true&theme=transparent#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
